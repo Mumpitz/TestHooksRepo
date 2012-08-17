@@ -1,0 +1,4 @@
+Path file6
+
+
+Check if the hook is realy fired
