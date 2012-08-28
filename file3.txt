@@ -3,3 +3,5 @@ path's file3
 mump contr
 
 And path makes also changes
+
+change to commit
