@@ -1,2 +1,3 @@
 post-merge.log
 post-commit.log
+post-checkout.log
